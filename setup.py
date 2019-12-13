@@ -10,7 +10,7 @@ setup(name='simchain',
       description='python blockchain simulator',
       author='YAOYAO PEI',
       author_email='yaoyao.bae@foxmail.com',
-      url = 'https://github.com/YaoyaoBae/simchain',
+      url = 'https://github.com/Frank-gh/simchain',
       license = "Hubei Univeristy of Technology license",
       packages=['simchain','simchain.lbc'],
       )
